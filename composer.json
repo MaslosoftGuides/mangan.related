@@ -5,6 +5,6 @@
 	}
     },
     "require": {
-        "maslosoft/mangan": "^4.4"
+        "maslosoft/mangan": "^7"
     }
 }
